@@ -32,7 +32,7 @@ The project also has a <b>Theme Switcher</b> where the user can choose between l
 
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mock_mobile.gif" width="400px" />
+  <img alt="cTracker" title="cTrackerApp" src="./assets/gitApp.gif" width="400px" />
 </p>
 
 
