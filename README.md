@@ -77,7 +77,7 @@ $ expo start
 ## 📝 Get in touch
 
 
-<a href="https://www.https://twitter.com/adlerkes" target="_blank" >
+<a href="https://twitter.com/adlerkes" target="_blank" >
     <img alt="Linkedin - Adler Kesley" src="https://img.shields.io/badge/Twitter--%23F8952D?style=for-the-badge&logo=twitter">
 </a>
   <a href="https://www.linkedin.com/in/adler-kesley-34b09511b/" target="_blank" >
